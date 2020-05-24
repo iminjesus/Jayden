@@ -1,0 +1,45 @@
+C:\C#\Assessment1_b_Jusuk Bang\1D array\bin\Debug\1D array.exe.config
+C:\C#\Assessment1_b_Jusuk Bang\1D array\bin\Debug\1D array.exe
+C:\C#\Assessment1_b_Jusuk Bang\1D array\bin\Debug\1D array.pdb
+C:\C#\Assessment1_b_Jusuk Bang\1D array\obj\Debug\1D array.csprojAssemblyReference.cache
+C:\C#\Assessment1_b_Jusuk Bang\1D array\obj\Debug\_1D_array.FrmMain.resources
+C:\C#\Assessment1_b_Jusuk Bang\1D array\obj\Debug\_1D_array.Properties.Resources.resources
+C:\C#\Assessment1_b_Jusuk Bang\1D array\obj\Debug\1D array.csproj.GenerateResource.cache
+C:\C#\Assessment1_b_Jusuk Bang\1D array\obj\Debug\1D array.exe
+C:\C#\Assessment1_b_Jusuk Bang\1D array\obj\Debug\1D array.pdb
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\bin\Debug\1D array.exe.config
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\bin\Debug\1D array.exe
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\bin\Debug\1D array.pdb
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\obj\Debug\1D array.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\obj\Debug\_1D_array.FrmMain.resources
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\obj\Debug\_1D_array.Properties.Resources.resources
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\obj\Debug\1D array.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\obj\Debug\1D array.exe
+C:\Users\USER\Downloads\Assessment1b_CIT234344_Jusuk Bang\1D array\obj\Debug\1D array.pdb
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\bin\Debug\1D array.exe.config
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\bin\Debug\1D array.exe
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\bin\Debug\1D array.pdb
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\obj\Debug\_1D_array.FrmMain.resources
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\obj\Debug\_1D_array.Properties.Resources.resources
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\obj\Debug\1D array.csproj.GenerateResource.cache
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\obj\Debug\1D array.exe
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\obj\Debug\1D array.pdb
+C:\C#\Assessment1b_CIT234344_Jusuk Bang - Copy\1D array\obj\Debug\1D array.csprojAssemblyReference.cache
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\bin\Debug\1D array.exe.config
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\bin\Debug\1D array.exe
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\bin\Debug\1D array.pdb
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\obj\Debug\1D array.csprojAssemblyReference.cache
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\obj\Debug\_1D_array.FrmMain.resources
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\obj\Debug\_1D_array.Properties.Resources.resources
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\obj\Debug\1D array.csproj.GenerateResource.cache
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\obj\Debug\1D array.exe
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy\1D array\obj\Debug\1D array.pdb
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\bin\Debug\1D array.exe.config
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\bin\Debug\1D array.exe
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\bin\Debug\1D array.pdb
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\obj\Debug\1D array.csprojAssemblyReference.cache
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\obj\Debug\_1D_array.FrmMain.resources
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\obj\Debug\_1D_array.Properties.Resources.resources
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\obj\Debug\1D array.csproj.GenerateResource.cache
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\obj\Debug\1D array.exe
+C:\C#\Assessment1b_CIT234344_Jusuk Bang_revision - Copy - Copy\1D array\obj\Debug\1D array.pdb
