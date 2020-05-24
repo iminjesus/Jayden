@@ -5,59 +5,62 @@
 // Platform: Microsoft Windows 10 Professional 64‐bit 
 // Purpose:Develop Nested Array and implement a comparator
 //*********************************************************************
-
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 
 namespace _1D_array
 {
-    class Order
+    public partial class FrmMain : Form
     {
-        public List<OrderLine> _orderLines = new List<OrderLine>();//create orderLine array
-
-        public Order()
-        { 
-        }
-        public List<OrderLine> GetList() //Get product details
+        Order order = new Order();//create new class object
+        public FrmMain()
         {
-            return _orderLines;
+            InitializeComponent();
         }
-
-
-        public void AddOrderLine(OrderLine line) //Add new Item
+        private void FrmMain_Load(object sender, EventArgs e)
         {
-            _orderLines.Add(line);
+           
         }
 
-        public double OrderTotal()//Calculate all order price by adding each line order amount
+        private void btnAdd_Click(object sender, EventArgs e) //create button that adds product
         {
-            double total = 0;
-            foreach (OrderLine line in _orderLines)
+            List<string> _orderLines = new List<string>();
+            Order.OrderLine newItem = new Order.OrderLine();//create object newItem
+            newItem.ProductName = txtName.Text; //insert newItem details
+            newItem.Quantity = int.Parse(txtQuantity.Text);
+            newItem.Price = double.Parse(txtPrice.Text);
+            order.AddOrderLine(newItem);
+            //check line total works well in nested class orderLIne
+            txtTotal.Text = "Total order price of your new item is $" + newItem.OrderLineTotal(order).ToString();
+        }
+
+        private void displayitems()//display all ordered items
+        {
+            StringBuilder sb = new StringBuilder();//make object to display each array
+            foreach (var i in order._orderLines)//Display sorted item
             {
-                total += line.OrderLineTotal(this);
+                sb.AppendFormat(i.ProductName + "\t" + i.Price + "\t" + i.Quantity + "\r\n");
             }
-            return total;
+            txtSort.Text = sb.ToString();
         }
-
-        // Nested class
-        internal class OrderLine : IComparable<OrderLine>
+        private void btnTotal_Click(object sender, EventArgs e)//Total order price of all products
         {
-            public string ProductName { get; set; }//Define valiables of Orderline class
-            public int Quantity { get; set; }
-            public double Price { get; set; }
-
-            public double OrderLineTotal(Order order)//calculate each line order amount
-            {
-                return Math.Round(Price * Quantity);
-            }
-            public int CompareTo(OrderLine other) // Alphabetic sort by using comparator
-            {
-                return String.Compare(this.ProductName, other.ProductName);
-            }
+            txtDisplay.Text = "Total order price of your new item is $"+ order.OrderTotal().ToString();
         }
-    }
+
+        private void btnSort_Click(object sender, EventArgs e)//Sort items by alpabetical order
+        {
+            StringBuilder sb = new StringBuilder();//make object to display each array
+            order._orderLines.Sort();//using comparator to sort
+            displayitems();
+        }
+    }  
 }
